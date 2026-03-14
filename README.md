@@ -202,3 +202,9 @@ Sudhansu Sekhar Nayak
 ## License
 
 This project is for educational and portfolio purposes.
+
+![image alt](https://github.com/Rajsekhar2002/Email-Generator-React/blob/1994d63f90b458c6a785439dadb43561ad7d8bd5/Screenshot%20(163).png)
+![image alt](https://github.com/Rajsekhar2002/Email-Generator-React/blob/1994d63f90b458c6a785439dadb43561ad7d8bd5/Screenshot%20(164).png)
+![image alt](https://github.com/Rajsekhar2002/Email-Generator-React/blob/1994d63f90b458c6a785439dadb43561ad7d8bd5/Screenshot%20(165).png)
+
+
